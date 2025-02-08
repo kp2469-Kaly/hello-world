@@ -1,3 +1,3 @@
 ## Helloworld Repository
-README.md for Helloworld repo
+README.md for Helloworld repository
 
