@@ -2,7 +2,7 @@
 
 int main()
 {
-  // First Comment Added
+  // First Comment
   printf("Hello, World!\n");
   return 0;
 }
